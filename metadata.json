@@ -1,0 +1,6 @@
+{
+  "name": "NoorPulse",
+  "description": "Professional Islamic prayer clock, adhan alerts, Qibla compass, and mosque timetable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

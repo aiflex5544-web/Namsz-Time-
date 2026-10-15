@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نور پلس</string>
+    <string name="tagline">مسجد ڈیجیٹل نماز گھڑی</string>
+
+    <!-- Prayers in Urdu as required: فجر، ظہر، عصر، مغرب، عشاء -->
+    <string name="fajr">فجر</string>
+    <string name="sunrise">طلوعِ آفتاب</string>
+    <string name="dhuhr">ظہر</string>
+    <string name="asr">عصر</string>
+    <string name="maghrib">مغرب</string>
+    <string name="isha">عشاء</string>
+
+    <!-- Common UI -->
+    <string name="next_prayer">اگلی نماز</string>
+    <string name="remaining">باقی وقت</string>
+    <string name="now">ابھی</string>
+    <string name="select_location">مقام منتخب کریں</string>
+    <string name="clock_designs">گھڑی ڈیزائن</string>
+    <string name="custom_times_title">اپنی اوقات</string>
+    <string name="qibla_compass">قبلہ رخ</string>
+    <string name="settings_title">ترتیبات</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="cancel">منسوخ</string>
+    <string name="reset">ری سیٹ</string>
+    <string name="edit">تبدیل کریں</string>
+    <string name="done">مکمل</string>
+    <string name="dismiss">بند کریں</string>
+    <string name="preview">سنیں</string>
+    <string name="stop">روکیں</string>
+
+    <!-- Qibla -->
+    <string name="qibla_bearing">قبلہ رخ کا زاویہ</string>
+    <string name="facing_qibla">آپ قبلہ رخ ہیں!</string>
+    <string name="calibrate_compass">قطب نما درست کرنے کے لیے فون کو 8 کی شکل میں گھمائیں</string>
+    <string name="no_compass_sensor">مقناطیسی سینسر دستیاب نہیں۔ قبلہ کا رخ شمال کے مطابق دکھایا جا رہا ہے۔</string>
+
+    <!-- Adhan & Alerts -->
+    <string name="adhan_alarm_title">وقتِ اذان</string>
+    <string name="adhan_playing">اذان جاری ہے</string>
+    <string name="stop_adhan">اذان بند کریں</string>
+
+    <!-- Widgets -->
+    <string name="widget_name">نور پلس اوقاتِ نماز</string>
+</resources>

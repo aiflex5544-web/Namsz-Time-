@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NoorPulse</string>
+    <string name="tagline">Mosque Digital Prayer Clock</string>
+
+    <!-- Prayers -->
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+
+    <!-- Common UI -->
+    <string name="next_prayer">Next Prayer</string>
+    <string name="remaining">Remaining</string>
+    <string name="now">Now</string>
+    <string name="select_location">Location</string>
+    <string name="clock_designs">Clock Styles</string>
+    <string name="custom_times_title">Custom Times</string>
+    <string name="qibla_compass">Qibla</string>
+    <string name="settings_title">Settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="preview">Preview</string>
+    <string name="stop">Stop</string>
+
+    <!-- Qibla -->
+    <string name="qibla_bearing">Qibla Direction</string>
+    <string name="facing_qibla">You are facing Qibla!</string>
+    <string name="calibrate_compass">Wave phone in a figure-8 motion to calibrate sensors</string>
+    <string name="no_compass_sensor">Magnetic sensor unavailable. Compass shows calculated bearing relative to True North.</string>
+
+    <!-- Adhan & Alerts -->
+    <string name="adhan_alarm_title">Adhan Reminder</string>
+    <string name="adhan_playing">Adhan is playing</string>
+    <string name="stop_adhan">Stop Adhan</string>
+
+    <!-- Widgets -->
+    <string name="widget_name">NoorPulse Prayer Times</string>
+</resources>
